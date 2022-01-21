@@ -1,0 +1,21 @@
+.box{
+    text-align: center;
+}
+.text1{
+    text-decoration: underline;
+}
+.text2{
+    text-decoration: underline dotted;
+}
+.text3{
+    text-decoration: underline dotted red;
+}
+.text4{
+    text-decoration: green wavy underline;
+}
+.text5{
+    text-decoration: underline overline #FF3028;
+}
+.text6{
+    text-decoration: overline #FF3028;
+}
